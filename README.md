@@ -1,4 +1,5 @@
 # App de Finanças Pessoais com Vibe Coding — Lucas Adriano
+Este projeto foi desenvolvido como um desafio da DIO de Vibe Coding, utilizando Lovable e GPT web. A proposta é criar um aplicativo de controle financeiro pessoal baseado em interações por linguagem natural
 
 ## PRD refinado com ChatGPT (Web)
 
